@@ -1,0 +1,98 @@
+.toolbar a {
+    display: inline-block;
+    border: 1px solid #dadada;
+    padding: 5px 8px;
+    margin: 0 5px 10px 0;
+    color: #000;
+    border-radius: 10px;
+    font-size: 12px;
+    -webkit-box-shadow: 1px 1px 2px #ddd;
+    box-shadow: 1px 1px 2px #e3e3e3;
+    background: #fff;
+    vertical-align: top;
+    text-decoration: none;
+}
+
+.toolbar select {
+    display: inline-block;
+    height: 28px;
+    line-height: 28px;
+    background: #fff;
+    padding: 0;
+    margin: 0 5px 10px 0;
+    color: #000;
+    -webkit-box-shadow: 1px 1px 2px #ddd;
+    box-shadow: 1px 1px 2px #ddd;
+    border-radius: 3px;
+    vertical-align: top;
+    font-size: 12px;
+}
+
+.toolbar input {
+    display: inline-block;
+    border: 1px solid #cecece;
+    padding: 5px 8px;
+    margin: 0 5px 10px 0;
+    color: #000;
+    border-radius: 3px;
+    font-size: 12px;
+    background: #fff;
+    vertical-align: top;
+    text-decoration: none;
+}
+
+.toolbar span {
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    padding: 0;
+    margin: 0 0 10px 0;
+    color: #000;
+    vertical-align: top;
+    font-size: 12px;
+}
+
+.editor {
+    min-height: 300px;
+    padding: 32px;
+    background: #edf8ff;
+    border: 1px solid #D8E1EF;
+    border-radius: 10px;
+}
+
+.editor .about-img {
+    width: 361px;
+    height: 220px;
+}
+
+@media (max-width: 560px) {
+
+    .editor {
+        padding: 10px;
+    }
+
+    .editor .admin-box-img {
+        width: 100%;
+    }
+
+    .editor .about-img {
+        width: 320px;
+        height: 195px;
+        margin: auto;
+    }
+}
+
+/*ul li {*/
+/*    display: list-item;*/
+/*    list-style: disc;*/
+/*}*/
+
+/*ol li {*/
+/*    list-style: decimal-leading-zero;*/
+/*    display: list-item;*/
+/*}*/
+
+[contenteditable="true"] {
+    outline: none;
+}
+

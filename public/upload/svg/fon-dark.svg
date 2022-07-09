@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="200mm" height="93mm" version="1.1" viewBox="0 0 200 93" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8476">
+   <stop stop-color="#22273d" offset="0"/>
+   <stop stop-color="#23283e" offset=".50441"/>
+   <stop stop-color="#2f375d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient7996" x1="514.32" x2="-330.32" y1="10.183" y2="-784.58" gradientTransform="matrix(.86262 0 0 .87333 -187.2 -135.33)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient8476"/>
+  <linearGradient id="linearGradient9430" x1="514.32" x2="-330.32" y1="10.183" y2="-784.58" gradientTransform="matrix(.86262 0 0 .87333 74.837 113.54)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient8476"/>
+ </defs>
+ <g transform="matrix(.14376 0 0 .15492 3.5224 -.28693)">
+  <g fill-rule="evenodd" stroke-miterlimit="15">
+   <rect x="2.094e-8" y="1.0366e-6" width="1372.5" height="639.96" rx=".25775" ry=".24853" fill="#22273d" stroke-dasharray="0.133635, 0.00556815" stroke-width=".0055682" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(-.65254 .75776 -.60608 -.7954 0 0)" x="-462.97" y="-823.74" width="700.49" height="717.63" rx="140.73" ry="144.17" fill="url(#linearGradient7996)" stroke-dasharray="0.235761, 0.00982338" stroke-width=".0082914" style="mix-blend-mode:normal;paint-order:stroke fill markers"/>
+   <rect transform="matrix(-.65254 .75776 -.60608 -.7954 0 0)" x="-200.95" y="-574.87" width="700.49" height="717.63" rx="140.73" ry="144.17" fill="url(#linearGradient9430)" stroke-dasharray="0.235761, 0.00982338" stroke-width=".0082914" style="mix-blend-mode:normal;paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="44" version="1.1" viewBox="0 0 24 44" xmlns="http://www.w3.org/2000/svg">
+ <path d="m-7.9207 1.9149 3.1904-3.228-3.228-3.1904 0.98707-0.99163 4.2195 4.1706-4.1705 4.2195z" fill="#0ff" stroke-width="1.0488"/>
+ <rect transform="matrix(.84748 -.53083 .46452 .88556 0 0)" x="2.3376" y="3.3506" width="4.7862" height="26.915" rx="2.8259" ry="2.4016" fill="#edf8ff" fill-rule="evenodd" stroke-dasharray="1.37549, 0.057312" stroke-miterlimit="15" stroke-width=".057312" style="paint-order:stroke fill markers"/>
+ <rect transform="matrix(.87699 .4805 .44835 -.89386 0 0)" x="22.819" y="-35.201" width="4.7257" height="25.961" rx="2.7902" ry="2.3165" fill="#edf8ff" fill-rule="evenodd" stroke-dasharray="1.34234, 0.0559306" stroke-miterlimit="15" stroke-width=".055931" style="paint-order:stroke fill markers"/>
+</svg>
